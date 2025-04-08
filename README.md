@@ -3,4 +3,4 @@
 This repository contains the submission for Assignment 4.
 
 - File: `Assignment4.ipynb`
-- Description: Jupyter notebook for data science assignment 4.
+- Description: Jupyter notebook for data structure assignment 4.
